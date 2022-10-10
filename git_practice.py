@@ -7,6 +7,6 @@ def prod(x, y):
 def prod1(x, y):
     return x * y
 
-def prod1(x, y):
+def prod2(x, y):
     return x / y
 
