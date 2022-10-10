@@ -4,7 +4,7 @@ def add(x, y):
 def prod(x, y):
     return x - y
 
-def prod1(x, y):
+def prod2(x, y):
     return x * y
 
 def remain(x, y):
