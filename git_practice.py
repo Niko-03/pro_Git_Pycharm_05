@@ -13,8 +13,7 @@ def prod3(x, y):
 def prod4(x, y):
     return x // y
 
-def remain(x, y):
-    return x % y
+
 
 
 
